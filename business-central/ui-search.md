@@ -1,0 +1,58 @@
+---
+title: Finding Features and Information | Microsoft Docs
+description: This topic describes how to use search to find actions, pages, reports, documentation, and data.
+author: SusanneWindfeldPedersen
+ms.service: dynamics365-business-central
+ms.topic: article
+ms.devlang: na
+ms.tgt_pltfrm: na
+ms.workload: na
+ms.search.keywords: find
+ms.date: 10/01/2018
+ms.author: bholtorf
+ms.openlocfilehash: d260f7cf5db0bbd7c70320d0bd1d33ee29650616
+ms.sourcegitcommit: e10de72476c6a6e0cbd35bcb714a29b535c39f0e
+ms.translationtype: HT
+ms.contentlocale: en-GB
+ms.lasthandoff: 01/21/2019
+ms.locfileid: "267368"
+---
+# <a name="using-tell-me-to-find-features-and-information"></a><span data-ttu-id="7ec02-103">Using Tell Me to Find Features and Information</span><span class="sxs-lookup"><span data-stu-id="7ec02-103">Using Tell Me to Find Features and Information</span></span>  
+<span data-ttu-id="7ec02-104">This topic describes various ways that Tell Me can help you quickly find an action, page, report, or learn how to do something in [!INCLUDE[d365fin](includes/d365fin_md.md)] if you are unsure.</span><span class="sxs-lookup"><span data-stu-id="7ec02-104">This topic describes various ways that Tell Me can help you quickly find an action, page, report, or learn how to do something in [!INCLUDE[d365fin](includes/d365fin_md.md)] if you are unsure.</span></span>  
+
+> [!VIDEO https://www.youtube.com/embed/W8egYiS445o]
+
+## <a name="find-pages-reports-actions-and-documentation"></a><span data-ttu-id="7ec02-105">Find Pages, Reports, Actions, and Documentation</span><span class="sxs-lookup"><span data-stu-id="7ec02-105">Find Pages, Reports, Actions, and Documentation</span></span> 
+<span data-ttu-id="7ec02-106">When you need help finding a page, report, an article in our documentation, or an action on the page that is open, use the ![Tell me what you want to do](media/ui-search/search.png "Search for Page or Report") **Tell me what you want to do** icon to search for it by name.</span><span class="sxs-lookup"><span data-stu-id="7ec02-106">When you need help finding a page, report, an article in our documentation, or an action on the page that is open, use the ![Tell me what you want to do](media/ui-search/search.png "Search for Page or Report") **Tell me what you want to do** icon to search for it by name.</span></span> <span data-ttu-id="7ec02-107">You can also use ALT+Q to start using Tell Me.</span><span class="sxs-lookup"><span data-stu-id="7ec02-107">You can also use ALT+Q to start using Tell Me.</span></span>
+
+<span data-ttu-id="7ec02-108">When you start typing characters, [!INCLUDE[d365fin](includes/d365fin_md.md)] immediately displays matches in a drop-down list.</span><span class="sxs-lookup"><span data-stu-id="7ec02-108">When you start typing characters, [!INCLUDE[d365fin](includes/d365fin_md.md)] immediately displays matches in a drop-down list.</span></span> <span data-ttu-id="7ec02-109">Results in the list change as you type more characters.</span><span class="sxs-lookup"><span data-stu-id="7ec02-109">Results in the list change as you type more characters.</span></span> <span data-ttu-id="7ec02-110">The second column in the drop-down list indicates the general category of the result.</span><span class="sxs-lookup"><span data-stu-id="7ec02-110">The second column in the drop-down list indicates the general category of the result.</span></span>   
+
+> [!NOTE]  
+>   <span data-ttu-id="7ec02-111">When you press **Enter** on your keyboard, [!INCLUDE[d365fin](includes/d365fin_md.md)] opens the result that is listed first.</span><span class="sxs-lookup"><span data-stu-id="7ec02-111">When you press **Enter** on your keyboard, [!INCLUDE[d365fin](includes/d365fin_md.md)] opens the result that is listed first.</span></span> <span data-ttu-id="7ec02-112">If you prefer to use your keyboard, use the Tab key and arrow keys to choose an item in the results.</span><span class="sxs-lookup"><span data-stu-id="7ec02-112">If you prefer to use your keyboard, use the Tab key and arrow keys to choose an item in the results.</span></span>
+
+### <a name="find-an-action-on-the-current-page"></a><span data-ttu-id="7ec02-113">Find an Action on the Current Page</span><span class="sxs-lookup"><span data-stu-id="7ec02-113">Find an Action on the Current Page</span></span>
+<span data-ttu-id="7ec02-114">The **On current page** section lets you find and perform actions on the page you have open.</span><span class="sxs-lookup"><span data-stu-id="7ec02-114">The **On current page** section lets you find and perform actions on the page you have open.</span></span> <span data-ttu-id="7ec02-115">For example, if the Sales Quote page is open and you type "customer," the section includes an action that opens the customer card for the customer chosen on the sales quote.</span><span class="sxs-lookup"><span data-stu-id="7ec02-115">For example, if the Sales Quote page is open and you type "customer," the section includes an action that opens the customer card for the customer chosen on the sales quote.</span></span> 
+
+> [!NOTE]  
+>   <span data-ttu-id="7ec02-116">The list includes only actions that are available in the Navigation Bar at the top of the page.</span><span class="sxs-lookup"><span data-stu-id="7ec02-116">The list includes only actions that are available in the Navigation Bar at the top of the page.</span></span> <span data-ttu-id="7ec02-117">Actions on FastTabs are not included.</span><span class="sxs-lookup"><span data-stu-id="7ec02-117">Actions on FastTabs are not included.</span></span>  
+
+### <a name="find-a-page-or-a-task"></a><span data-ttu-id="7ec02-118">Find a Page or a Task</span><span class="sxs-lookup"><span data-stu-id="7ec02-118">Find a Page or a Task</span></span>
+<span data-ttu-id="7ec02-119">The results in the **Go to Pages and Tasks** section provide access to other pages and let you perform tasks.</span><span class="sxs-lookup"><span data-stu-id="7ec02-119">The results in the **Go to Pages and Tasks** section provide access to other pages and let you perform tasks.</span></span> <span data-ttu-id="7ec02-120">The pages and tasks that are listed depend on the user experience you chose for your company.</span><span class="sxs-lookup"><span data-stu-id="7ec02-120">The pages and tasks that are listed depend on the user experience you chose for your company.</span></span> <span data-ttu-id="7ec02-121">The **Essential** experience gives access to fewer than the **Premium** experience does.</span><span class="sxs-lookup"><span data-stu-id="7ec02-121">The **Essential** experience gives access to fewer than the **Premium** experience does.</span></span> <span data-ttu-id="7ec02-122">The first time you sign in, you use the Essential experience.</span><span class="sxs-lookup"><span data-stu-id="7ec02-122">The first time you sign in, you use the Essential experience.</span></span> <span data-ttu-id="7ec02-123">For more information, see [Customizing Your [!INCLUDE[d365fin](includes/d365fin_md.md)] Experience](ui-experiences.md).</span><span class="sxs-lookup"><span data-stu-id="7ec02-123">For more information, see [Customizing Your [!INCLUDE[d365fin](includes/d365fin_md.md)] Experience](ui-experiences.md).</span></span>
+
+### <a name="find-a-report-or-archived-information"></a><span data-ttu-id="7ec02-124">Find a Report or Archived Information</span><span class="sxs-lookup"><span data-stu-id="7ec02-124">Find a Report or Archived Information</span></span>
+<span data-ttu-id="7ec02-125">The **Go to Reports and Analysis** section offers access to reporting tools.</span><span class="sxs-lookup"><span data-stu-id="7ec02-125">The **Go to Reports and Analysis** section offers access to reporting tools.</span></span> <span data-ttu-id="7ec02-126">For example, you can open the **Balance Sheet** report from the list, or access archived documents and other information.</span><span class="sxs-lookup"><span data-stu-id="7ec02-126">For example, you can open the **Balance Sheet** report from the list, or access archived documents and other information.</span></span>  
+
+### <a name="find-information-in-the-help"></a><span data-ttu-id="7ec02-127">Find Information in the Help</span><span class="sxs-lookup"><span data-stu-id="7ec02-127">Find Information in the Help</span></span>
+<span data-ttu-id="7ec02-128">Under **Documentation** you will see articles from the [!INCLUDE[d365fin](includes/d365fin_md.md)] documentation that describe concepts and provide step-by-step guidance for completing tasks in the application.</span><span class="sxs-lookup"><span data-stu-id="7ec02-128">Under **Documentation** you will see articles from the [!INCLUDE[d365fin](includes/d365fin_md.md)] documentation that describe concepts and provide step-by-step guidance for completing tasks in the application.</span></span>    
+
+> [!NOTE]  
+>   <span data-ttu-id="7ec02-129">Documentation for third-party extensions is not included in the results.</span><span class="sxs-lookup"><span data-stu-id="7ec02-129">Documentation for third-party extensions is not included in the results.</span></span> 
+
+## <a name="searching-for-data"></a><span data-ttu-id="7ec02-130">Searching for Data</span><span class="sxs-lookup"><span data-stu-id="7ec02-130">Searching for Data</span></span>
+<span data-ttu-id="7ec02-131">The **Tell me what you want to do** function does not search for data, such as customer names, addresses, or transactions.</span><span class="sxs-lookup"><span data-stu-id="7ec02-131">The **Tell me what you want to do** function does not search for data, such as customer names, addresses, or transactions.</span></span> <span data-ttu-id="7ec02-132">Instead, you can search for data in list pages by choosing the ![Search list](media/ui-search/search-list.png "Search list icon") **Search** icon in the left corner of the list header.</span><span class="sxs-lookup"><span data-stu-id="7ec02-132">Instead, you can search for data in list pages by choosing the ![Search list](media/ui-search/search-list.png "Search list icon") **Search** icon in the left corner of the list header.</span></span> <span data-ttu-id="7ec02-133">The search applies only to the list you are viewing.</span><span class="sxs-lookup"><span data-stu-id="7ec02-133">The search applies only to the list you are viewing.</span></span> <span data-ttu-id="7ec02-134">For more information, see [Sorting, Searching, and Filtering Lists](ui-enter-criteria-filters.md).</span><span class="sxs-lookup"><span data-stu-id="7ec02-134">For more information, see [Sorting, Searching, and Filtering Lists](ui-enter-criteria-filters.md).</span></span>
+
+## <a name="questions"></a><span data-ttu-id="7ec02-135">Questions?</span><span class="sxs-lookup"><span data-stu-id="7ec02-135">Questions?</span></span>
+<span data-ttu-id="7ec02-136">We have shown Tell Me to a range of stakeholders, noted the questions that they had in common, and turned our notes into a list frequently asked questions.</span><span class="sxs-lookup"><span data-stu-id="7ec02-136">We have shown Tell Me to a range of stakeholders, noted the questions that they had in common, and turned our notes into a list frequently asked questions.</span></span> <span data-ttu-id="7ec02-137">If you are interested, see [Tell Me FAQ](ui-search-faq.md).</span><span class="sxs-lookup"><span data-stu-id="7ec02-137">If you are interested, see [Tell Me FAQ](ui-search-faq.md).</span></span>
+
+## <a name="see-also"></a><span data-ttu-id="7ec02-138">See Also</span><span class="sxs-lookup"><span data-stu-id="7ec02-138">See Also</span></span>
+[<span data-ttu-id="7ec02-139">Working with Business Central</span><span class="sxs-lookup"><span data-stu-id="7ec02-139">Working with Business Central</span></span>](ui-work-product.md)
