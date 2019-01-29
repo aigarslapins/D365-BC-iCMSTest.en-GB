@@ -1,0 +1,23 @@
+items:
+- name: Dynamics 365
+  tocHref: /dynamics365/
+  topicHref: /dynamics365/index
+  items:
+  - name: Introduction to Dynamics 365
+    tocHref: /dynamics365/get-started/what-is/
+    topicHref: /dynamics365/get-started/what-is/index
+  - name: Business Central
+    tocHref: /dynamics365/financials/
+    topicHref: /dynamics365/financials/index
+  - name: Business Central Developer and IT-pro
+    tocHref: /dynamics365/business-central/devitpro
+    topicHref: /dynamics365/business-central/devitpro/index
+  - name: Accountant Hub
+    tocHref: /dynamics365/accountants/
+    topicHref: /dynamics365/accountants/index
+ms.openlocfilehash: 4054f429e646cfa47e2c6dfc126c2b98a3d9b776
+ms.sourcegitcommit: e10de72476c6a6e0cbd35bcb714a29b535c39f0e
+ms.translationtype: HT
+ms.contentlocale: en-GB
+ms.lasthandoff: 01/21/2019
+ms.locfileid: "226494"

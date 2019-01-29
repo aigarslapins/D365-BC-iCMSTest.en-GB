@@ -1,0 +1,1 @@
+# <a name="welcome-to-bc-icmstest"></a><span data-ttu-id="334c1-101">Welcome to BC-iCMSTest!</span><span class="sxs-lookup"><span data-stu-id="334c1-101">Welcome to BC-iCMSTest!</span></span>

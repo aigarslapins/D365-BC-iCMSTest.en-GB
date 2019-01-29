@@ -1,0 +1,1 @@
+<span data-ttu-id="bd530-101">Choose a field to read a short description of the field or link to more information.</span><span class="sxs-lookup"><span data-stu-id="bd530-101">Choose a field to read a short description of the field or link to more information.</span></span>
